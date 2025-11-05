@@ -36,7 +36,7 @@ AIML Lab Project/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd "AIML Lab Project"
+   cd your_project_file   
    ```
 
 2. **Install dependencies**
